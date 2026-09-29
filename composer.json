@@ -14,5 +14,18 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "repositories": [
+       {
+         "type": "vcs",
+         "url": "https://github.com/ma7t3/php-uuid"
+       },
+       {
+         "type": "vcs",
+         "url": "https://github.com/ma7t3/php-dotenv"
+       }
+    ],
+    "require": {
+      "ma7t3/uuid": "^1.0",
+      "ma7t3/dotenv": "^1.0"
+    }
 }
