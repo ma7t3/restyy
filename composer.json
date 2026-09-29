@@ -1,5 +1,5 @@
 {
-    "name": "malte/restyy",
+    "name": "ma7t3/restyy",
     "description": "restyy is a simple PHP framework for building HTTP REST APIs",
     "type": "library",
     "autoload": {
