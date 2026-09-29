@@ -4,7 +4,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Malte\\Restyy\\": "src/"
+            "ma7t3\\Restyy\\": "src/"
         }
     },
     "authors": [
