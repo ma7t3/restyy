@@ -1,0 +1,18 @@
+{
+    "name": "malte/restyy",
+    "description": "restyy is a simple PHP framework for building HTTP REST APIs",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Malte\\Restyy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ma7t3",
+            "email": "104677051+ma7t3@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
