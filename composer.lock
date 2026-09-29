@@ -1,0 +1,85 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "deec6e001eab7c62e5271fc1849abfe2",
+    "packages": [
+        {
+            "name": "ma7t3/dotenv",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ma7t3/php-dotenv.git",
+                "reference": "26ac753d2a85a2efe7df8e05d5494eea8bde1c09"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ma7t3/php-dotenv/zipball/26ac753d2a85a2efe7df8e05d5494eea8bde1c09",
+                "reference": "26ac753d2a85a2efe7df8e05d5494eea8bde1c09",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "ma7t3\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "ma7t3",
+                    "email": "104677051+ma7t3@users.noreply.github.com"
+                }
+            ],
+            "description": "A simple interface for .env files",
+            "support": {
+                "source": "https://github.com/ma7t3/php-dotenv/tree/v1.0.0",
+                "issues": "https://github.com/ma7t3/php-dotenv/issues"
+            },
+            "time": "2026-09-11T22:32:30+00:00"
+        },
+        {
+            "name": "ma7t3/uuid",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ma7t3/php-uuid.git",
+                "reference": "0013765566da909eb2bb86ffc4430c6fa4f3f25f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ma7t3/php-uuid/zipball/0013765566da909eb2bb86ffc4430c6fa4f3f25f",
+                "reference": "0013765566da909eb2bb86ffc4430c6fa4f3f25f",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "ma7t3\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "ma7t3",
+                    "email": "104677051+ma7t3@users.noreply.github.com"
+                }
+            ],
+            "description": "A simple Uuid generator and wrapper class",
+            "support": {
+                "source": "https://github.com/ma7t3/php-uuid/tree/v1.0.0",
+                "issues": "https://github.com/ma7t3/php-uuid/issues"
+            },
+            "time": "2026-09-11T22:17:53+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.9.0"
+}
